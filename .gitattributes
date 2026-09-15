@@ -1,0 +1,16 @@
+# Keep source files portable and prevent binary assets appearing as text diffs.
+* text=auto
+*.php text eol=lf
+*.js text eol=lf
+*.mjs text eol=lf
+*.css text eol=lf
+*.sql text eol=lf
+*.md text eol=lf
+*.command text eol=lf
+*.pdf binary
+*.mp4 binary
+*.png binary
+*.jpg binary
+*.webp binary
+*.woff2 binary
+*.ttf binary

@@ -1,0 +1,1232 @@
+{
+  "date": "2026-09-09T19:48:10.594Z",
+  "checks": 306,
+  "passed": 306,
+  "problems": [],
+  "details": [
+    {
+      "label": "1440 ar/home: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/home: no horizontal overflow (1440) ",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/home: images loaded",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/home: one H1",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/home: direction",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/home: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/about: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/about: no horizontal overflow (1440) ",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/about: images loaded",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/about: one H1",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/about: direction",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/about: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/services: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/services: no horizontal overflow (1440) ",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/services: images loaded",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/services: one H1",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/services: direction",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/services: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/contact: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/contact: no horizontal overflow (1440) ,",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/contact: images loaded",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/contact: one H1",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/contact: direction",
+      "pass": true
+    },
+    {
+      "label": "1440 ar/contact: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "1440 en/home: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "1440 en/home: no horizontal overflow (1440) ",
+      "pass": true
+    },
+    {
+      "label": "1440 en/home: images loaded",
+      "pass": true
+    },
+    {
+      "label": "1440 en/home: one H1",
+      "pass": true
+    },
+    {
+      "label": "1440 en/home: direction",
+      "pass": true
+    },
+    {
+      "label": "1440 en/home: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "1440 en/about: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "1440 en/about: no horizontal overflow (1440) ",
+      "pass": true
+    },
+    {
+      "label": "1440 en/about: images loaded",
+      "pass": true
+    },
+    {
+      "label": "1440 en/about: one H1",
+      "pass": true
+    },
+    {
+      "label": "1440 en/about: direction",
+      "pass": true
+    },
+    {
+      "label": "1440 en/about: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "1440 en/services: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "1440 en/services: no horizontal overflow (1440) ",
+      "pass": true
+    },
+    {
+      "label": "1440 en/services: images loaded",
+      "pass": true
+    },
+    {
+      "label": "1440 en/services: one H1",
+      "pass": true
+    },
+    {
+      "label": "1440 en/services: direction",
+      "pass": true
+    },
+    {
+      "label": "1440 en/services: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "1440 en/contact: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "1440 en/contact: no horizontal overflow (1440) ,",
+      "pass": true
+    },
+    {
+      "label": "1440 en/contact: images loaded",
+      "pass": true
+    },
+    {
+      "label": "1440 en/contact: one H1",
+      "pass": true
+    },
+    {
+      "label": "1440 en/contact: direction",
+      "pass": true
+    },
+    {
+      "label": "1440 en/contact: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/home: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/home: no horizontal overflow (1440) ",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/home: images loaded",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/home: one H1",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/home: direction",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/home: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/about: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/about: no horizontal overflow (1440) ",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/about: images loaded",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/about: one H1",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/about: direction",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/about: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/services: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/services: no horizontal overflow (1440) ",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/services: images loaded",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/services: one H1",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/services: direction",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/services: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/contact: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/contact: no horizontal overflow (1440) ,",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/contact: images loaded",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/contact: one H1",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/contact: direction",
+      "pass": true
+    },
+    {
+      "label": "1440 ku/contact: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "768 ar/home: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "768 ar/home: no horizontal overflow (768) ",
+      "pass": true
+    },
+    {
+      "label": "768 ar/home: images loaded",
+      "pass": true
+    },
+    {
+      "label": "768 ar/home: one H1",
+      "pass": true
+    },
+    {
+      "label": "768 ar/home: direction",
+      "pass": true
+    },
+    {
+      "label": "768 ar/home: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "768 ar/about: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "768 ar/about: no horizontal overflow (768) ",
+      "pass": true
+    },
+    {
+      "label": "768 ar/about: images loaded",
+      "pass": true
+    },
+    {
+      "label": "768 ar/about: one H1",
+      "pass": true
+    },
+    {
+      "label": "768 ar/about: direction",
+      "pass": true
+    },
+    {
+      "label": "768 ar/about: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "768 ar/services: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "768 ar/services: no horizontal overflow (768) ",
+      "pass": true
+    },
+    {
+      "label": "768 ar/services: images loaded",
+      "pass": true
+    },
+    {
+      "label": "768 ar/services: one H1",
+      "pass": true
+    },
+    {
+      "label": "768 ar/services: direction",
+      "pass": true
+    },
+    {
+      "label": "768 ar/services: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "768 ar/contact: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "768 ar/contact: no horizontal overflow (768) ,",
+      "pass": true
+    },
+    {
+      "label": "768 ar/contact: images loaded",
+      "pass": true
+    },
+    {
+      "label": "768 ar/contact: one H1",
+      "pass": true
+    },
+    {
+      "label": "768 ar/contact: direction",
+      "pass": true
+    },
+    {
+      "label": "768 ar/contact: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "768 en/home: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "768 en/home: no horizontal overflow (768) ",
+      "pass": true
+    },
+    {
+      "label": "768 en/home: images loaded",
+      "pass": true
+    },
+    {
+      "label": "768 en/home: one H1",
+      "pass": true
+    },
+    {
+      "label": "768 en/home: direction",
+      "pass": true
+    },
+    {
+      "label": "768 en/home: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "768 en/about: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "768 en/about: no horizontal overflow (768) ",
+      "pass": true
+    },
+    {
+      "label": "768 en/about: images loaded",
+      "pass": true
+    },
+    {
+      "label": "768 en/about: one H1",
+      "pass": true
+    },
+    {
+      "label": "768 en/about: direction",
+      "pass": true
+    },
+    {
+      "label": "768 en/about: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "768 en/services: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "768 en/services: no horizontal overflow (768) ",
+      "pass": true
+    },
+    {
+      "label": "768 en/services: images loaded",
+      "pass": true
+    },
+    {
+      "label": "768 en/services: one H1",
+      "pass": true
+    },
+    {
+      "label": "768 en/services: direction",
+      "pass": true
+    },
+    {
+      "label": "768 en/services: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "768 en/contact: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "768 en/contact: no horizontal overflow (768) ,",
+      "pass": true
+    },
+    {
+      "label": "768 en/contact: images loaded",
+      "pass": true
+    },
+    {
+      "label": "768 en/contact: one H1",
+      "pass": true
+    },
+    {
+      "label": "768 en/contact: direction",
+      "pass": true
+    },
+    {
+      "label": "768 en/contact: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "768 ku/home: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "768 ku/home: no horizontal overflow (768) ",
+      "pass": true
+    },
+    {
+      "label": "768 ku/home: images loaded",
+      "pass": true
+    },
+    {
+      "label": "768 ku/home: one H1",
+      "pass": true
+    },
+    {
+      "label": "768 ku/home: direction",
+      "pass": true
+    },
+    {
+      "label": "768 ku/home: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "768 ku/about: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "768 ku/about: no horizontal overflow (768) ",
+      "pass": true
+    },
+    {
+      "label": "768 ku/about: images loaded",
+      "pass": true
+    },
+    {
+      "label": "768 ku/about: one H1",
+      "pass": true
+    },
+    {
+      "label": "768 ku/about: direction",
+      "pass": true
+    },
+    {
+      "label": "768 ku/about: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "768 ku/services: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "768 ku/services: no horizontal overflow (768) ",
+      "pass": true
+    },
+    {
+      "label": "768 ku/services: images loaded",
+      "pass": true
+    },
+    {
+      "label": "768 ku/services: one H1",
+      "pass": true
+    },
+    {
+      "label": "768 ku/services: direction",
+      "pass": true
+    },
+    {
+      "label": "768 ku/services: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "768 ku/contact: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "768 ku/contact: no horizontal overflow (768) ,",
+      "pass": true
+    },
+    {
+      "label": "768 ku/contact: images loaded",
+      "pass": true
+    },
+    {
+      "label": "768 ku/contact: one H1",
+      "pass": true
+    },
+    {
+      "label": "768 ku/contact: direction",
+      "pass": true
+    },
+    {
+      "label": "768 ku/contact: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "390 ar/home: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "390 ar/home: no horizontal overflow (390) ",
+      "pass": true
+    },
+    {
+      "label": "390 ar/home: images loaded",
+      "pass": true
+    },
+    {
+      "label": "390 ar/home: one H1",
+      "pass": true
+    },
+    {
+      "label": "390 ar/home: direction",
+      "pass": true
+    },
+    {
+      "label": "390 ar/home: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "390 ar/about: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "390 ar/about: no horizontal overflow (390) ",
+      "pass": true
+    },
+    {
+      "label": "390 ar/about: images loaded",
+      "pass": true
+    },
+    {
+      "label": "390 ar/about: one H1",
+      "pass": true
+    },
+    {
+      "label": "390 ar/about: direction",
+      "pass": true
+    },
+    {
+      "label": "390 ar/about: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "390 ar/services: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "390 ar/services: no horizontal overflow (390) ",
+      "pass": true
+    },
+    {
+      "label": "390 ar/services: images loaded",
+      "pass": true
+    },
+    {
+      "label": "390 ar/services: one H1",
+      "pass": true
+    },
+    {
+      "label": "390 ar/services: direction",
+      "pass": true
+    },
+    {
+      "label": "390 ar/services: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "390 ar/contact: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "390 ar/contact: no horizontal overflow (390) ,",
+      "pass": true
+    },
+    {
+      "label": "390 ar/contact: images loaded",
+      "pass": true
+    },
+    {
+      "label": "390 ar/contact: one H1",
+      "pass": true
+    },
+    {
+      "label": "390 ar/contact: direction",
+      "pass": true
+    },
+    {
+      "label": "390 ar/contact: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "390 en/home: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "390 en/home: no horizontal overflow (390) ",
+      "pass": true
+    },
+    {
+      "label": "390 en/home: images loaded",
+      "pass": true
+    },
+    {
+      "label": "390 en/home: one H1",
+      "pass": true
+    },
+    {
+      "label": "390 en/home: direction",
+      "pass": true
+    },
+    {
+      "label": "390 en/home: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "390 en/about: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "390 en/about: no horizontal overflow (390) ",
+      "pass": true
+    },
+    {
+      "label": "390 en/about: images loaded",
+      "pass": true
+    },
+    {
+      "label": "390 en/about: one H1",
+      "pass": true
+    },
+    {
+      "label": "390 en/about: direction",
+      "pass": true
+    },
+    {
+      "label": "390 en/about: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "390 en/services: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "390 en/services: no horizontal overflow (390) ",
+      "pass": true
+    },
+    {
+      "label": "390 en/services: images loaded",
+      "pass": true
+    },
+    {
+      "label": "390 en/services: one H1",
+      "pass": true
+    },
+    {
+      "label": "390 en/services: direction",
+      "pass": true
+    },
+    {
+      "label": "390 en/services: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "390 en/contact: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "390 en/contact: no horizontal overflow (390) ,",
+      "pass": true
+    },
+    {
+      "label": "390 en/contact: images loaded",
+      "pass": true
+    },
+    {
+      "label": "390 en/contact: one H1",
+      "pass": true
+    },
+    {
+      "label": "390 en/contact: direction",
+      "pass": true
+    },
+    {
+      "label": "390 en/contact: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "390 ku/home: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "390 ku/home: no horizontal overflow (390) ",
+      "pass": true
+    },
+    {
+      "label": "390 ku/home: images loaded",
+      "pass": true
+    },
+    {
+      "label": "390 ku/home: one H1",
+      "pass": true
+    },
+    {
+      "label": "390 ku/home: direction",
+      "pass": true
+    },
+    {
+      "label": "390 ku/home: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "390 ku/about: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "390 ku/about: no horizontal overflow (390) ",
+      "pass": true
+    },
+    {
+      "label": "390 ku/about: images loaded",
+      "pass": true
+    },
+    {
+      "label": "390 ku/about: one H1",
+      "pass": true
+    },
+    {
+      "label": "390 ku/about: direction",
+      "pass": true
+    },
+    {
+      "label": "390 ku/about: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "390 ku/services: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "390 ku/services: no horizontal overflow (390) ",
+      "pass": true
+    },
+    {
+      "label": "390 ku/services: images loaded",
+      "pass": true
+    },
+    {
+      "label": "390 ku/services: one H1",
+      "pass": true
+    },
+    {
+      "label": "390 ku/services: direction",
+      "pass": true
+    },
+    {
+      "label": "390 ku/services: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "390 ku/contact: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "390 ku/contact: no horizontal overflow (390) ,",
+      "pass": true
+    },
+    {
+      "label": "390 ku/contact: images loaded",
+      "pass": true
+    },
+    {
+      "label": "390 ku/contact: one H1",
+      "pass": true
+    },
+    {
+      "label": "390 ku/contact: direction",
+      "pass": true
+    },
+    {
+      "label": "390 ku/contact: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "320 ar/home: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "320 ar/home: no horizontal overflow (320) ",
+      "pass": true
+    },
+    {
+      "label": "320 ar/home: images loaded",
+      "pass": true
+    },
+    {
+      "label": "320 ar/home: one H1",
+      "pass": true
+    },
+    {
+      "label": "320 ar/home: direction",
+      "pass": true
+    },
+    {
+      "label": "320 ar/home: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "320 ar/about: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "320 ar/about: no horizontal overflow (320) ",
+      "pass": true
+    },
+    {
+      "label": "320 ar/about: images loaded",
+      "pass": true
+    },
+    {
+      "label": "320 ar/about: one H1",
+      "pass": true
+    },
+    {
+      "label": "320 ar/about: direction",
+      "pass": true
+    },
+    {
+      "label": "320 ar/about: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "320 ar/services: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "320 ar/services: no horizontal overflow (320) ",
+      "pass": true
+    },
+    {
+      "label": "320 ar/services: images loaded",
+      "pass": true
+    },
+    {
+      "label": "320 ar/services: one H1",
+      "pass": true
+    },
+    {
+      "label": "320 ar/services: direction",
+      "pass": true
+    },
+    {
+      "label": "320 ar/services: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "320 ar/contact: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "320 ar/contact: no horizontal overflow (320) ,",
+      "pass": true
+    },
+    {
+      "label": "320 ar/contact: images loaded",
+      "pass": true
+    },
+    {
+      "label": "320 ar/contact: one H1",
+      "pass": true
+    },
+    {
+      "label": "320 ar/contact: direction",
+      "pass": true
+    },
+    {
+      "label": "320 ar/contact: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "320 en/home: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "320 en/home: no horizontal overflow (320) ",
+      "pass": true
+    },
+    {
+      "label": "320 en/home: images loaded",
+      "pass": true
+    },
+    {
+      "label": "320 en/home: one H1",
+      "pass": true
+    },
+    {
+      "label": "320 en/home: direction",
+      "pass": true
+    },
+    {
+      "label": "320 en/home: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "320 en/about: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "320 en/about: no horizontal overflow (320) ",
+      "pass": true
+    },
+    {
+      "label": "320 en/about: images loaded",
+      "pass": true
+    },
+    {
+      "label": "320 en/about: one H1",
+      "pass": true
+    },
+    {
+      "label": "320 en/about: direction",
+      "pass": true
+    },
+    {
+      "label": "320 en/about: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "320 en/services: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "320 en/services: no horizontal overflow (320) ",
+      "pass": true
+    },
+    {
+      "label": "320 en/services: images loaded",
+      "pass": true
+    },
+    {
+      "label": "320 en/services: one H1",
+      "pass": true
+    },
+    {
+      "label": "320 en/services: direction",
+      "pass": true
+    },
+    {
+      "label": "320 en/services: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "320 en/contact: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "320 en/contact: no horizontal overflow (320) ,",
+      "pass": true
+    },
+    {
+      "label": "320 en/contact: images loaded",
+      "pass": true
+    },
+    {
+      "label": "320 en/contact: one H1",
+      "pass": true
+    },
+    {
+      "label": "320 en/contact: direction",
+      "pass": true
+    },
+    {
+      "label": "320 en/contact: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "320 ku/home: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "320 ku/home: no horizontal overflow (320) ",
+      "pass": true
+    },
+    {
+      "label": "320 ku/home: images loaded",
+      "pass": true
+    },
+    {
+      "label": "320 ku/home: one H1",
+      "pass": true
+    },
+    {
+      "label": "320 ku/home: direction",
+      "pass": true
+    },
+    {
+      "label": "320 ku/home: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "320 ku/about: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "320 ku/about: no horizontal overflow (320) ",
+      "pass": true
+    },
+    {
+      "label": "320 ku/about: images loaded",
+      "pass": true
+    },
+    {
+      "label": "320 ku/about: one H1",
+      "pass": true
+    },
+    {
+      "label": "320 ku/about: direction",
+      "pass": true
+    },
+    {
+      "label": "320 ku/about: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "320 ku/services: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "320 ku/services: no horizontal overflow (320) ",
+      "pass": true
+    },
+    {
+      "label": "320 ku/services: images loaded",
+      "pass": true
+    },
+    {
+      "label": "320 ku/services: one H1",
+      "pass": true
+    },
+    {
+      "label": "320 ku/services: direction",
+      "pass": true
+    },
+    {
+      "label": "320 ku/services: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "320 ku/contact: HTTP 200",
+      "pass": true
+    },
+    {
+      "label": "320 ku/contact: no horizontal overflow (320) ,",
+      "pass": true
+    },
+    {
+      "label": "320 ku/contact: images loaded",
+      "pass": true
+    },
+    {
+      "label": "320 ku/contact: one H1",
+      "pass": true
+    },
+    {
+      "label": "320 ku/contact: direction",
+      "pass": true
+    },
+    {
+      "label": "320 ku/contact: correct language font available",
+      "pass": true
+    },
+    {
+      "label": "slider next",
+      "pass": true
+    },
+    {
+      "label": "slider previous",
+      "pass": true
+    },
+    {
+      "label": "slider pagination",
+      "pass": true
+    },
+    {
+      "label": "RTL keyboard slider wraps",
+      "pass": true
+    },
+    {
+      "label": "reduced motion hides autoplay control",
+      "pass": true
+    },
+    {
+      "label": "service details open",
+      "pass": true
+    },
+    {
+      "label": "service inquiry preselects service",
+      "pass": true
+    },
+    {
+      "label": "language switch retains page and selected service",
+      "pass": true
+    },
+    {
+      "label": "language menu Escape",
+      "pass": true
+    },
+    {
+      "label": "language menu outside click",
+      "pass": true
+    },
+    {
+      "label": "empty form validation, no request sent",
+      "pass": true
+    },
+    {
+      "label": "mobile navigation opens",
+      "pass": true
+    },
+    {
+      "label": "mobile navigation Escape",
+      "pass": true
+    },
+    {
+      "label": "autoplay pause control",
+      "pass": true
+    },
+    {
+      "label": "no-JS main copy visible",
+      "pass": true
+    },
+    {
+      "label": "no-JS navigation visible",
+      "pass": true
+    },
+    {
+      "label": "no-JS language links visible",
+      "pass": true
+    },
+    {
+      "label": "no-JS no horizontal overflow",
+      "pass": true
+    }
+  ]
+}

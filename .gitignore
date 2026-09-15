@@ -1,0 +1,23 @@
+# Local credentials; keep only the safe configuration template.
+/.env
+/.env.*
+!/.env.example
+
+# Runtime uploads and local database, backups, sockets and logs.
+/public/uploads/*
+!/public/uploads/.htaccess
+!/public/uploads/index.html
+/storage/*
+!/storage/logs/
+/storage/logs/*
+!/storage/logs/.gitkeep
+/tmp/
+
+# Local operating-system/editor and dependency files.
+.DS_Store
+._*
+*.swp
+*.swo
+/node_modules/
+/.idea/
+/.vscode/

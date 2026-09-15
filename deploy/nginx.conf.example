@@ -1,0 +1,32 @@
+server {
+    listen 80;
+    server_name example.com www.example.com;
+    root /var/www/almawaheb/public;
+    index index.php;
+
+    client_max_body_size 100M;
+
+    location / {
+        try_files $uri $uri/ /index.php?$query_string;
+    }
+
+    location ~ ^/uploads/.*\.(php|phtml|phar|cgi|pl|py|sh)$ {
+        deny all;
+    }
+
+    location ~ \.php$ {
+        include fastcgi_params;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        fastcgi_pass unix:/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\. {
+        deny all;
+    }
+
+    location ~* \.(css|js|png|jpg|jpeg|webp|avif|pdf)$ {
+        expires 14d;
+        add_header Cache-Control "public, immutable";
+        try_files $uri =404;
+    }
+}

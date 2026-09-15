@@ -1,0 +1,624 @@
+{
+  "date": "2026-09-14T12:10:06.468Z",
+  "engine": "webkit",
+  "total": 154,
+  "passed": 154,
+  "results": [
+    {
+      "pass": true,
+      "label": "1440 ar link 0: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar link 0: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar link 0: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar link 1: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar link 1: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar link 1: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar link 2: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar link 2: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar link 2: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar link 3: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar link 3: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar link 3: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar link 4: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar link 4: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar link 4: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar link 5: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar link 5: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar link 5: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar: Escape returns focus"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 0: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 0: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 0: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 1: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 1: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 1: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 2: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 2: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 2: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 3: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 3: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 3: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 4: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 4: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 4: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 5: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 5: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 en link 5: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 en: Escape returns focus"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 0: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 0: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 0: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 1: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 1: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 1: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 2: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 2: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 2: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 3: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 3: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 3: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 4: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 4: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 4: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 5: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 5: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku link 5: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku: Escape returns focus"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 0: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 0: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 0: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 0: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 1: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 1: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 1: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 1: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 2: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 2: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 2: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 2: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 3: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 3: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 3: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 3: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 4: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 4: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 4: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 4: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 5: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 5: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 5: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ar link 5: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ar: Escape returns focus"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 0: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 0: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 0: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 0: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 1: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 1: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 1: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 1: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 2: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 2: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 2: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 2: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 3: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 3: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 3: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 3: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 4: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 4: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 4: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 4: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 5: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 5: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 5: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 en link 5: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 en: Escape returns focus"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 0: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 0: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 0: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 0: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 1: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 1: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 1: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 1: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 2: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 2: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 2: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 2: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 3: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 3: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 3: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 3: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 4: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 4: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 4: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 4: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 5: remains open between pointerdown and pointerup"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 5: native click reaches expected destination"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 5: closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ku link 5: parent mobile menu closes after activation"
+    },
+    {
+      "pass": true,
+      "label": "390 ku: Escape returns focus"
+    },
+    {
+      "pass": true,
+      "label": "keyboard activation still opens service details"
+    },
+    {
+      "pass": true,
+      "label": "Tab leaving dropdown still closes it"
+    },
+    {
+      "pass": true,
+      "label": "outside click still closes dropdown"
+    },
+    {
+      "pass": true,
+      "label": "language dropdown still preserves selected service"
+    },
+    {
+      "pass": true,
+      "label": "ar link 0: touch navigation reaches destination and closes menu"
+    },
+    {
+      "pass": true,
+      "label": "ar link 1: touch navigation reaches destination and closes menu"
+    },
+    {
+      "pass": true,
+      "label": "ar link 2: touch navigation reaches destination and closes menu"
+    },
+    {
+      "pass": true,
+      "label": "ar link 3: touch navigation reaches destination and closes menu"
+    },
+    {
+      "pass": true,
+      "label": "ar link 4: touch navigation reaches destination and closes menu"
+    },
+    {
+      "pass": true,
+      "label": "ar link 5: touch navigation reaches destination and closes menu"
+    },
+    {
+      "pass": true,
+      "label": "en link 0: touch navigation reaches destination and closes menu"
+    },
+    {
+      "pass": true,
+      "label": "en link 1: touch navigation reaches destination and closes menu"
+    },
+    {
+      "pass": true,
+      "label": "en link 2: touch navigation reaches destination and closes menu"
+    },
+    {
+      "pass": true,
+      "label": "en link 3: touch navigation reaches destination and closes menu"
+    },
+    {
+      "pass": true,
+      "label": "en link 4: touch navigation reaches destination and closes menu"
+    },
+    {
+      "pass": true,
+      "label": "en link 5: touch navigation reaches destination and closes menu"
+    },
+    {
+      "pass": true,
+      "label": "ku link 0: touch navigation reaches destination and closes menu"
+    },
+    {
+      "pass": true,
+      "label": "ku link 1: touch navigation reaches destination and closes menu"
+    },
+    {
+      "pass": true,
+      "label": "ku link 2: touch navigation reaches destination and closes menu"
+    },
+    {
+      "pass": true,
+      "label": "ku link 3: touch navigation reaches destination and closes menu"
+    },
+    {
+      "pass": true,
+      "label": "ku link 4: touch navigation reaches destination and closes menu"
+    },
+    {
+      "pass": true,
+      "label": "ku link 5: touch navigation reaches destination and closes menu"
+    }
+  ]
+}

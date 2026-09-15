@@ -1,0 +1,571 @@
+{
+  "date": "2026-09-14T10:35:30.999Z",
+  "total": 141,
+  "passed": 141,
+  "results": [
+    {
+      "pass": true,
+      "label": "bg-1080: correct first byte range"
+    },
+    {
+      "pass": true,
+      "label": "bg-1080: correct suffix range"
+    },
+    {
+      "pass": true,
+      "label": "bg-1080: open-ended range"
+    },
+    {
+      "pass": true,
+      "label": "bg-1080: HEAD and MIME"
+    },
+    {
+      "pass": true,
+      "label": "bg-720: correct first byte range"
+    },
+    {
+      "pass": true,
+      "label": "bg-720: correct suffix range"
+    },
+    {
+      "pass": true,
+      "label": "bg-720: open-ended range"
+    },
+    {
+      "pass": true,
+      "label": "bg-720: HEAD and MIME"
+    },
+    {
+      "pass": true,
+      "label": "bg2-1080: correct first byte range"
+    },
+    {
+      "pass": true,
+      "label": "bg2-1080: correct suffix range"
+    },
+    {
+      "pass": true,
+      "label": "bg2-1080: open-ended range"
+    },
+    {
+      "pass": true,
+      "label": "bg2-1080: HEAD and MIME"
+    },
+    {
+      "pass": true,
+      "label": "bg2-720: correct first byte range"
+    },
+    {
+      "pass": true,
+      "label": "bg2-720: correct suffix range"
+    },
+    {
+      "pass": true,
+      "label": "bg2-720: open-ended range"
+    },
+    {
+      "pass": true,
+      "label": "bg2-720: HEAD and MIME"
+    },
+    {
+      "pass": true,
+      "label": "reject invalid or unsupported range: bytes=999999999-"
+    },
+    {
+      "pass": true,
+      "label": "reject invalid or unsupported range: bytes=20-10"
+    },
+    {
+      "pass": true,
+      "label": "reject invalid or unsupported range: bytes=-0"
+    },
+    {
+      "pass": true,
+      "label": "reject invalid or unsupported range: bytes=-"
+    },
+    {
+      "pass": true,
+      "label": "reject invalid or unsupported range: invalid"
+    },
+    {
+      "pass": true,
+      "label": "reject invalid or unsupported range: bytes=0-2,6-9"
+    },
+    {
+      "pass": true,
+      "label": "MP4 route rejects POST"
+    },
+    {
+      "pass": true,
+      "label": "ar 1440: silent inline autoplay"
+    },
+    {
+      "pass": true,
+      "label": "ar 1440: appropriate video resolution"
+    },
+    {
+      "pass": true,
+      "label": "ar 1440: inactive video not downloaded"
+    },
+    {
+      "pass": true,
+      "label": "ar 1440: no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "ar 1440: pause stops video"
+    },
+    {
+      "pass": true,
+      "label": "ar 1440: resume video"
+    },
+    {
+      "pass": true,
+      "label": "ar 1440: first video stops on slide change"
+    },
+    {
+      "pass": true,
+      "label": "ar 1440: second video plays in slider"
+    },
+    {
+      "pass": true,
+      "label": "ar 1440: image slide pauses both videos"
+    },
+    {
+      "pass": true,
+      "label": "ar 1440: offscreen video pauses"
+    },
+    {
+      "pass": true,
+      "label": "ar 1440: visible video resumes"
+    },
+    {
+      "pass": true,
+      "label": "en 1440: silent inline autoplay"
+    },
+    {
+      "pass": true,
+      "label": "en 1440: appropriate video resolution"
+    },
+    {
+      "pass": true,
+      "label": "en 1440: inactive video not downloaded"
+    },
+    {
+      "pass": true,
+      "label": "en 1440: no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "en 1440: pause stops video"
+    },
+    {
+      "pass": true,
+      "label": "en 1440: resume video"
+    },
+    {
+      "pass": true,
+      "label": "en 1440: first video stops on slide change"
+    },
+    {
+      "pass": true,
+      "label": "en 1440: second video plays in slider"
+    },
+    {
+      "pass": true,
+      "label": "en 1440: image slide pauses both videos"
+    },
+    {
+      "pass": true,
+      "label": "en 1440: offscreen video pauses"
+    },
+    {
+      "pass": true,
+      "label": "en 1440: visible video resumes"
+    },
+    {
+      "pass": true,
+      "label": "ku 1440: silent inline autoplay"
+    },
+    {
+      "pass": true,
+      "label": "ku 1440: appropriate video resolution"
+    },
+    {
+      "pass": true,
+      "label": "ku 1440: inactive video not downloaded"
+    },
+    {
+      "pass": true,
+      "label": "ku 1440: no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "ku 1440: pause stops video"
+    },
+    {
+      "pass": true,
+      "label": "ku 1440: resume video"
+    },
+    {
+      "pass": true,
+      "label": "ku 1440: first video stops on slide change"
+    },
+    {
+      "pass": true,
+      "label": "ku 1440: second video plays in slider"
+    },
+    {
+      "pass": true,
+      "label": "ku 1440: image slide pauses both videos"
+    },
+    {
+      "pass": true,
+      "label": "ku 1440: offscreen video pauses"
+    },
+    {
+      "pass": true,
+      "label": "ku 1440: visible video resumes"
+    },
+    {
+      "pass": true,
+      "label": "ar 768: silent inline autoplay"
+    },
+    {
+      "pass": true,
+      "label": "ar 768: appropriate video resolution"
+    },
+    {
+      "pass": true,
+      "label": "ar 768: inactive video not downloaded"
+    },
+    {
+      "pass": true,
+      "label": "ar 768: no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "ar 768: pause stops video"
+    },
+    {
+      "pass": true,
+      "label": "ar 768: resume video"
+    },
+    {
+      "pass": true,
+      "label": "ar 768: first video stops on slide change"
+    },
+    {
+      "pass": true,
+      "label": "ar 768: second video plays in slider"
+    },
+    {
+      "pass": true,
+      "label": "ar 768: image slide pauses both videos"
+    },
+    {
+      "pass": true,
+      "label": "ar 768: offscreen video pauses"
+    },
+    {
+      "pass": true,
+      "label": "ar 768: visible video resumes"
+    },
+    {
+      "pass": true,
+      "label": "en 768: silent inline autoplay"
+    },
+    {
+      "pass": true,
+      "label": "en 768: appropriate video resolution"
+    },
+    {
+      "pass": true,
+      "label": "en 768: inactive video not downloaded"
+    },
+    {
+      "pass": true,
+      "label": "en 768: no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "en 768: pause stops video"
+    },
+    {
+      "pass": true,
+      "label": "en 768: resume video"
+    },
+    {
+      "pass": true,
+      "label": "en 768: first video stops on slide change"
+    },
+    {
+      "pass": true,
+      "label": "en 768: second video plays in slider"
+    },
+    {
+      "pass": true,
+      "label": "en 768: image slide pauses both videos"
+    },
+    {
+      "pass": true,
+      "label": "en 768: offscreen video pauses"
+    },
+    {
+      "pass": true,
+      "label": "en 768: visible video resumes"
+    },
+    {
+      "pass": true,
+      "label": "ku 768: silent inline autoplay"
+    },
+    {
+      "pass": true,
+      "label": "ku 768: appropriate video resolution"
+    },
+    {
+      "pass": true,
+      "label": "ku 768: inactive video not downloaded"
+    },
+    {
+      "pass": true,
+      "label": "ku 768: no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "ku 768: pause stops video"
+    },
+    {
+      "pass": true,
+      "label": "ku 768: resume video"
+    },
+    {
+      "pass": true,
+      "label": "ku 768: first video stops on slide change"
+    },
+    {
+      "pass": true,
+      "label": "ku 768: second video plays in slider"
+    },
+    {
+      "pass": true,
+      "label": "ku 768: image slide pauses both videos"
+    },
+    {
+      "pass": true,
+      "label": "ku 768: offscreen video pauses"
+    },
+    {
+      "pass": true,
+      "label": "ku 768: visible video resumes"
+    },
+    {
+      "pass": true,
+      "label": "ar 390: silent inline autoplay"
+    },
+    {
+      "pass": true,
+      "label": "ar 390: appropriate video resolution"
+    },
+    {
+      "pass": true,
+      "label": "ar 390: inactive video not downloaded"
+    },
+    {
+      "pass": true,
+      "label": "ar 390: no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "ar 390: pause stops video"
+    },
+    {
+      "pass": true,
+      "label": "ar 390: resume video"
+    },
+    {
+      "pass": true,
+      "label": "ar 390: first video stops on slide change"
+    },
+    {
+      "pass": true,
+      "label": "ar 390: second video plays in slider"
+    },
+    {
+      "pass": true,
+      "label": "ar 390: image slide pauses both videos"
+    },
+    {
+      "pass": true,
+      "label": "ar 390: offscreen video pauses"
+    },
+    {
+      "pass": true,
+      "label": "ar 390: visible video resumes"
+    },
+    {
+      "pass": true,
+      "label": "en 390: silent inline autoplay"
+    },
+    {
+      "pass": true,
+      "label": "en 390: appropriate video resolution"
+    },
+    {
+      "pass": true,
+      "label": "en 390: inactive video not downloaded"
+    },
+    {
+      "pass": true,
+      "label": "en 390: no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "en 390: pause stops video"
+    },
+    {
+      "pass": true,
+      "label": "en 390: resume video"
+    },
+    {
+      "pass": true,
+      "label": "en 390: first video stops on slide change"
+    },
+    {
+      "pass": true,
+      "label": "en 390: second video plays in slider"
+    },
+    {
+      "pass": true,
+      "label": "en 390: image slide pauses both videos"
+    },
+    {
+      "pass": true,
+      "label": "en 390: offscreen video pauses"
+    },
+    {
+      "pass": true,
+      "label": "en 390: visible video resumes"
+    },
+    {
+      "pass": true,
+      "label": "ku 390: silent inline autoplay"
+    },
+    {
+      "pass": true,
+      "label": "ku 390: appropriate video resolution"
+    },
+    {
+      "pass": true,
+      "label": "ku 390: inactive video not downloaded"
+    },
+    {
+      "pass": true,
+      "label": "ku 390: no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "ku 390: pause stops video"
+    },
+    {
+      "pass": true,
+      "label": "ku 390: resume video"
+    },
+    {
+      "pass": true,
+      "label": "ku 390: first video stops on slide change"
+    },
+    {
+      "pass": true,
+      "label": "ku 390: second video plays in slider"
+    },
+    {
+      "pass": true,
+      "label": "ku 390: image slide pauses both videos"
+    },
+    {
+      "pass": true,
+      "label": "ku 390: offscreen video pauses"
+    },
+    {
+      "pass": true,
+      "label": "ku 390: visible video resumes"
+    },
+    {
+      "pass": true,
+      "label": "video ending advances and switches the playing video"
+    },
+    {
+      "pass": true,
+      "label": "manual pause keeps both timer and video stopped"
+    },
+    {
+      "pass": true,
+      "label": "reduced motion downloads no video"
+    },
+    {
+      "pass": true,
+      "label": "reduced-motion control state"
+    },
+    {
+      "pass": true,
+      "label": "live motion preference pauses and resumes playback"
+    },
+    {
+      "pass": true,
+      "label": "save-data: fallback image loads"
+    },
+    {
+      "pass": true,
+      "label": "save-data: unavailable video does not hide poster"
+    },
+    {
+      "pass": true,
+      "label": "save-data: no video download"
+    },
+    {
+      "pass": true,
+      "label": "save-data: no overflow"
+    },
+    {
+      "pass": true,
+      "label": "blocked-autoplay: fallback image loads"
+    },
+    {
+      "pass": true,
+      "label": "blocked-autoplay: unavailable video does not hide poster"
+    },
+    {
+      "pass": true,
+      "label": "blocked-autoplay: no overflow"
+    },
+    {
+      "pass": true,
+      "label": "network-failure: fallback image loads"
+    },
+    {
+      "pass": true,
+      "label": "network-failure: unavailable video does not hide poster"
+    },
+    {
+      "pass": true,
+      "label": "network-failure: no overflow"
+    },
+    {
+      "pass": true,
+      "label": "no-js: fallback image loads"
+    },
+    {
+      "pass": true,
+      "label": "no-js: unavailable video does not hide poster"
+    },
+    {
+      "pass": true,
+      "label": "no-js: no video download"
+    },
+    {
+      "pass": true,
+      "label": "no-js: no overflow"
+    }
+  ]
+}

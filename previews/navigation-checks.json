@@ -1,0 +1,3079 @@
+{
+  "date": "2026-09-14T12:00:07.212Z",
+  "total": 768,
+  "passed": 768,
+  "results": [
+    {
+      "pass": true,
+      "label": "1440 ar/home: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/home: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/home: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/home: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/home: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/home: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/home: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/home: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/home: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/home: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/about: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/about: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/about: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/about: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/about: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/about: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/about: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/about: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/about: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/about: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/services: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/services: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/services: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/services: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/services: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/services: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/services: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/services: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/services: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/services: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/contact: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/contact: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/contact: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/contact: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/contact: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/contact: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/contact: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/contact: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/contact: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar/contact: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/home: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/home: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/home: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/home: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/home: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/home: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/home: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/home: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/home: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/about: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/about: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/about: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/about: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/about: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/about: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/about: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/about: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/about: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/services: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/services: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/services: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/services: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/services: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/services: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/services: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/services: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/services: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/contact: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/contact: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/contact: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/contact: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/contact: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/contact: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/contact: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/contact: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1440 en/contact: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/home: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/home: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/home: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/home: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/home: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/home: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/home: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/home: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/home: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/about: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/about: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/about: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/about: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/about: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/about: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/about: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/about: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/about: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/services: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/services: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/services: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/services: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/services: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/services: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/services: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/services: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/services: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/contact: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/contact: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/contact: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/contact: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/contact: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/contact: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/contact: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/contact: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku/contact: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/home: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/home: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/home: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/home: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/home: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/home: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/home: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/home: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/home: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/home: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/about: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/about: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/about: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/about: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/about: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/about: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/about: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/about: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/about: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/about: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/services: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/services: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/services: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/services: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/services: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/services: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/services: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/services: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/services: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/services: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/contact: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/contact: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/contact: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/contact: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/contact: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/contact: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/contact: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/contact: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/contact: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1024 ar/contact: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/home: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/home: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/home: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/home: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/home: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/home: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/home: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/home: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/home: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/about: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/about: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/about: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/about: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/about: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/about: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/about: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/about: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/about: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/services: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/services: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/services: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/services: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/services: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/services: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/services: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/services: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/services: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/contact: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/contact: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/contact: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/contact: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/contact: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/contact: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/contact: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/contact: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1024 en/contact: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/home: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/home: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/home: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/home: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/home: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/home: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/home: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/home: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/home: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/about: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/about: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/about: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/about: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/about: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/about: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/about: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/about: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/about: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/services: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/services: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/services: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/services: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/services: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/services: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/services: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/services: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/services: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/contact: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/contact: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/contact: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/contact: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/contact: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/contact: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/contact: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/contact: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "1024 ku/contact: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/home: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/home: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/home: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/home: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/home: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/home: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/home: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/home: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/home: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/home: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/home: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/home: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/about: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/about: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/about: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/about: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/about: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/about: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/about: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/about: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/about: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/about: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/about: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/about: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/services: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/services: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/services: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/services: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/services: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/services: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/services: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/services: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/services: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/services: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/services: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/services: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/contact: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/contact: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/contact: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/contact: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/contact: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/contact: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/contact: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/contact: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/contact: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/contact: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/contact: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "768 ar/contact: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "768 en/home: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "768 en/home: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "768 en/home: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "768 en/home: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "768 en/home: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "768 en/home: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "768 en/home: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "768 en/home: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "768 en/home: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "768 en/home: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "768 en/home: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "768 en/about: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "768 en/about: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "768 en/about: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "768 en/about: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "768 en/about: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "768 en/about: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "768 en/about: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "768 en/about: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "768 en/about: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "768 en/about: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "768 en/about: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "768 en/services: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "768 en/services: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "768 en/services: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "768 en/services: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "768 en/services: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "768 en/services: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "768 en/services: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "768 en/services: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "768 en/services: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "768 en/services: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "768 en/services: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "768 en/contact: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "768 en/contact: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "768 en/contact: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "768 en/contact: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "768 en/contact: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "768 en/contact: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "768 en/contact: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "768 en/contact: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "768 en/contact: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "768 en/contact: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "768 en/contact: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/home: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/home: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/home: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/home: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/home: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/home: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/home: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/home: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/home: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/home: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/home: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/about: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/about: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/about: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/about: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/about: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/about: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/about: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/about: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/about: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/about: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/about: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/services: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/services: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/services: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/services: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/services: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/services: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/services: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/services: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/services: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/services: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/services: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/contact: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/contact: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/contact: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/contact: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/contact: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/contact: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/contact: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/contact: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/contact: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/contact: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "768 ku/contact: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/home: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/home: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/home: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/home: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/home: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/home: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/home: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/home: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/home: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/home: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/home: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/home: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/about: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/about: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/about: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/about: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/about: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/about: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/about: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/about: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/about: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/about: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/about: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/about: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/services: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/services: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/services: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/services: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/services: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/services: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/services: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/services: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/services: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/services: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/services: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/services: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/contact: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/contact: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/contact: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/contact: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/contact: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/contact: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/contact: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/contact: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/contact: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/contact: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/contact: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "390 ar/contact: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "390 en/home: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "390 en/home: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "390 en/home: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "390 en/home: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "390 en/home: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "390 en/home: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "390 en/home: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "390 en/home: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "390 en/home: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "390 en/home: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "390 en/home: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "390 en/about: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "390 en/about: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "390 en/about: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "390 en/about: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "390 en/about: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "390 en/about: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "390 en/about: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "390 en/about: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "390 en/about: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "390 en/about: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "390 en/about: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "390 en/services: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "390 en/services: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "390 en/services: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "390 en/services: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "390 en/services: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "390 en/services: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "390 en/services: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "390 en/services: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "390 en/services: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "390 en/services: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "390 en/services: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "390 en/contact: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "390 en/contact: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "390 en/contact: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "390 en/contact: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "390 en/contact: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "390 en/contact: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "390 en/contact: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "390 en/contact: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "390 en/contact: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "390 en/contact: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "390 en/contact: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/home: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/home: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/home: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/home: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/home: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/home: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/home: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/home: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/home: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/home: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/home: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/about: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/about: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/about: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/about: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/about: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/about: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/about: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/about: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/about: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/about: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/about: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/services: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/services: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/services: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/services: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/services: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/services: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/services: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/services: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/services: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/services: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/services: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/contact: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/contact: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/contact: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/contact: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/contact: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/contact: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/contact: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/contact: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/contact: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/contact: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "390 ku/contact: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/home: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/home: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/home: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/home: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/home: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/home: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/home: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/home: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/home: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/home: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/home: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/home: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/about: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/about: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/about: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/about: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/about: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/about: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/about: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/about: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/about: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/about: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/about: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/about: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/services: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/services: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/services: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/services: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/services: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/services: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/services: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/services: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/services: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/services: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/services: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/services: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/contact: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/contact: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/contact: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/contact: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/contact: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/contact: requested service names"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/contact: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/contact: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/contact: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/contact: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/contact: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "320 ar/contact: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "320 en/home: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "320 en/home: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "320 en/home: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "320 en/home: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "320 en/home: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "320 en/home: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "320 en/home: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "320 en/home: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "320 en/home: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "320 en/home: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "320 en/home: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "320 en/about: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "320 en/about: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "320 en/about: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "320 en/about: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "320 en/about: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "320 en/about: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "320 en/about: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "320 en/about: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "320 en/about: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "320 en/about: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "320 en/about: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "320 en/services: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "320 en/services: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "320 en/services: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "320 en/services: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "320 en/services: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "320 en/services: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "320 en/services: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "320 en/services: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "320 en/services: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "320 en/services: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "320 en/services: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "320 en/contact: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "320 en/contact: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "320 en/contact: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "320 en/contact: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "320 en/contact: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "320 en/contact: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "320 en/contact: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "320 en/contact: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "320 en/contact: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "320 en/contact: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "320 en/contact: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/home: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/home: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/home: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/home: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/home: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/home: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/home: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/home: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/home: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/home: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/home: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/about: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/about: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/about: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/about: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/about: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/about: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/about: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/about: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/about: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/about: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/about: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/services: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/services: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/services: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/services: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/services: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/services: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/services: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/services: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/services: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/services: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/services: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/contact: HTTP 200"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/contact: four top-level navigation entries"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/contact: dropdown initially closed"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/contact: overview and five services"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/contact: correct language, order and detail anchors"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/contact: open menu has no horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/contact: menu within screen edges"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/contact: Escape closes services"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/contact: Escape restores trigger focus"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/contact: first Escape keeps parent navigation open"
+    },
+    {
+      "pass": true,
+      "label": "320 ku/contact: second Escape closes parent navigation"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar cargo-customs-clearance: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar cargo-customs-clearance: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar cargo-customs-clearance: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar customs-documentation: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar customs-documentation: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar customs-documentation: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar customs-consultancy: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar customs-consultancy: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar customs-consultancy: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar shipment-monitoring: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar shipment-monitoring: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar shipment-monitoring: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar customs-dispute-resolution: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar customs-dispute-resolution: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar customs-dispute-resolution: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "1440 ar: overview displays full services page without fragment"
+    },
+    {
+      "pass": true,
+      "label": "1440 en cargo-customs-clearance: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "1440 en cargo-customs-clearance: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "1440 en cargo-customs-clearance: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "1440 en customs-documentation: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "1440 en customs-documentation: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "1440 en customs-documentation: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "1440 en customs-consultancy: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "1440 en customs-consultancy: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "1440 en customs-consultancy: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "1440 en shipment-monitoring: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "1440 en shipment-monitoring: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "1440 en shipment-monitoring: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "1440 en customs-dispute-resolution: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "1440 en customs-dispute-resolution: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "1440 en customs-dispute-resolution: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "1440 en: overview displays full services page without fragment"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku cargo-customs-clearance: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku cargo-customs-clearance: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku cargo-customs-clearance: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku customs-documentation: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku customs-documentation: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku customs-documentation: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku customs-consultancy: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku customs-consultancy: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku customs-consultancy: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku shipment-monitoring: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku shipment-monitoring: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku shipment-monitoring: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku customs-dispute-resolution: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku customs-dispute-resolution: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku customs-dispute-resolution: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "1440 ku: overview displays full services page without fragment"
+    },
+    {
+      "pass": true,
+      "label": "390 ar cargo-customs-clearance: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "390 ar cargo-customs-clearance: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ar cargo-customs-clearance: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "390 ar cargo-customs-clearance: mobile parent closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ar customs-documentation: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "390 ar customs-documentation: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ar customs-documentation: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "390 ar customs-documentation: mobile parent closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ar customs-consultancy: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "390 ar customs-consultancy: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ar customs-consultancy: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "390 ar customs-consultancy: mobile parent closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ar shipment-monitoring: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "390 ar shipment-monitoring: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ar shipment-monitoring: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "390 ar shipment-monitoring: mobile parent closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ar customs-dispute-resolution: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "390 ar customs-dispute-resolution: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ar customs-dispute-resolution: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "390 ar customs-dispute-resolution: mobile parent closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ar: overview displays full services page without fragment"
+    },
+    {
+      "pass": true,
+      "label": "390 en cargo-customs-clearance: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "390 en cargo-customs-clearance: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 en cargo-customs-clearance: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "390 en cargo-customs-clearance: mobile parent closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 en customs-documentation: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "390 en customs-documentation: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 en customs-documentation: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "390 en customs-documentation: mobile parent closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 en customs-consultancy: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "390 en customs-consultancy: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 en customs-consultancy: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "390 en customs-consultancy: mobile parent closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 en shipment-monitoring: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "390 en shipment-monitoring: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 en shipment-monitoring: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "390 en shipment-monitoring: mobile parent closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 en customs-dispute-resolution: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "390 en customs-dispute-resolution: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 en customs-dispute-resolution: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "390 en customs-dispute-resolution: mobile parent closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 en: overview displays full services page without fragment"
+    },
+    {
+      "pass": true,
+      "label": "390 ku cargo-customs-clearance: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "390 ku cargo-customs-clearance: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ku cargo-customs-clearance: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "390 ku cargo-customs-clearance: mobile parent closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ku customs-documentation: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "390 ku customs-documentation: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ku customs-documentation: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "390 ku customs-documentation: mobile parent closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ku customs-consultancy: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "390 ku customs-consultancy: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ku customs-consultancy: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "390 ku customs-consultancy: mobile parent closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ku shipment-monitoring: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "390 ku shipment-monitoring: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ku shipment-monitoring: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "390 ku shipment-monitoring: mobile parent closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ku customs-dispute-resolution: correct visible detail below sticky header"
+    },
+    {
+      "pass": true,
+      "label": "390 ku customs-dispute-resolution: dropdown closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ku customs-dispute-resolution: selected service highlighted"
+    },
+    {
+      "pass": true,
+      "label": "390 ku customs-dispute-resolution: mobile parent closes after selection"
+    },
+    {
+      "pass": true,
+      "label": "390 ku: overview displays full services page without fragment"
+    },
+    {
+      "pass": true,
+      "label": "language switch preserves selected service detail"
+    },
+    {
+      "pass": true,
+      "label": "ArrowDown opens dropdown and focuses overview"
+    },
+    {
+      "pass": true,
+      "label": "End focuses last service"
+    },
+    {
+      "pass": true,
+      "label": "ArrowDown wraps to first entry"
+    },
+    {
+      "pass": true,
+      "label": "ArrowUp wraps to last entry"
+    },
+    {
+      "pass": true,
+      "label": "Home focuses first entry"
+    },
+    {
+      "pass": true,
+      "label": "Tab leaves and closes dropdown without trapping focus"
+    },
+    {
+      "pass": true,
+      "label": "ArrowUp on trigger opens last service"
+    },
+    {
+      "pass": true,
+      "label": "Enter operates native dropdown trigger"
+    },
+    {
+      "pass": true,
+      "label": "click outside closes services dropdown"
+    },
+    {
+      "pass": true,
+      "label": "opening language menu closes services dropdown"
+    },
+    {
+      "pass": true,
+      "label": "opening services closes language menu"
+    },
+    {
+      "pass": true,
+      "label": "breakpoint change resets dropdown state"
+    },
+    {
+      "pass": true,
+      "label": "last service accessible in short mobile viewport"
+    },
+    {
+      "pass": true,
+      "label": "touch opens dropdown and follows service link"
+    },
+    {
+      "pass": true,
+      "label": "deep link reveals service and moves keyboard focus with normal motion"
+    },
+    {
+      "pass": true,
+      "label": "404 page retains published services dropdown"
+    },
+    {
+      "pass": true,
+      "label": "1440: native dropdown works without JavaScript"
+    },
+    {
+      "pass": true,
+      "label": "1440: no-JavaScript dropdown without horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "1440: service detail navigation works without JavaScript"
+    },
+    {
+      "pass": true,
+      "label": "1440: no-JavaScript header does not cover service destination"
+    },
+    {
+      "pass": true,
+      "label": "390: native dropdown works without JavaScript"
+    },
+    {
+      "pass": true,
+      "label": "390: no-JavaScript dropdown without horizontal overflow"
+    },
+    {
+      "pass": true,
+      "label": "390: service detail navigation works without JavaScript"
+    },
+    {
+      "pass": true,
+      "label": "390: no-JavaScript header does not cover service destination"
+    }
+  ]
+}

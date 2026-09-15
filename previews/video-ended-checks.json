@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-14T11:54:37.975Z",
+  "total": 13,
+  "passed": 13,
+  "results": [
+    {
+      "pass": true,
+      "label": "video looping disabled"
+    },
+    {
+      "pass": true,
+      "label": "video is not advanced by the image fallback timer"
+    },
+    {
+      "pass": true,
+      "label": "first video plays to its real end before advancing, with pointer over carousel"
+    },
+    {
+      "pass": true,
+      "label": "second video ends and advances while persistent control has keyboard focus"
+    },
+    {
+      "pass": true,
+      "label": "image timer returns to first video from the beginning"
+    },
+    {
+      "pass": true,
+      "label": "manual pause near end prevents transition"
+    },
+    {
+      "pass": true,
+      "label": "resume completes remaining video and advances"
+    },
+    {
+      "pass": true,
+      "label": "manual return restarts completed video"
+    },
+    {
+      "pass": true,
+      "label": "keyboard focus within slide content pauses to preserve focused link"
+    },
+    {
+      "pass": true,
+      "label": "leaving slide content resumes video"
+    },
+    {
+      "pass": true,
+      "label": "progress indicator follows actual video position"
+    },
+    {
+      "pass": true,
+      "label": "mobile Sorani advances from actual ended event"
+    },
+    {
+      "pass": true,
+      "label": "blocked autoplay still advances poster slides"
+    }
+  ]
+}
